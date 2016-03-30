@@ -6,6 +6,10 @@ Basic data mining, machine learning algorithms and some useful reference and too
 
   Some answers to the exercises in the book PRML(Bishop) can be found on http://research.microsoft.com/en-us/um/people/cmbishop/PRML/pdf/prml-web-sol-2009-09-08.pdf
 
+- [Tool Book] The Matrix Cookbook
+
+  Gives out some basic matrix/vector derivative formula.
+
 - DES
 
   Data Encryption	Standard, used as the most popular Symmetrical Encryption Algorithm.
