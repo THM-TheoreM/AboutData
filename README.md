@@ -13,6 +13,10 @@ Basic data mining, machine learning algorithms and some useful reference and too
 - EM [Top10 Algorithm of Machine Learning]
 
   Expectation Maximization, a reference link:http://blog.csdn.net/zouxy09/article/details/8537620, an application is GMM
+  
+- k-means [Top10 Algorithm of Machine Learning]
+
+  A simple clustering algorithm
 
 - DES [Encryption Algorithm]
 
