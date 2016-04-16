@@ -10,6 +10,10 @@ Basic data mining, machine learning algorithms and some useful reference and too
 
   Gives out some basic matrix/vector derivative formula.
 
+- EM [Top10 Algorithm of Machine Learning]
+
+  Expectation Maximization, a reference link:http://blog.csdn.net/zouxy09/article/details/8537620, an application is GMM
+
 - DES [Encryption Algorithm]
 
   Data Encryption	Standard, used as the most popular Symmetrical Encryption Algorithm.
