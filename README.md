@@ -39,3 +39,7 @@ Basic data mining, machine learning algorithms and some useful reference and too
 - Spectral Clustering [Clustering Algorithm]
 
   From a graph view, making discrete problem continuous, reformulating as a Laplacian matrix's eigenvalue problem 
+
+- CNN [Classification Algorithm]
+
+  Convolutional neural networks, and an application in handwritten digits recognition
