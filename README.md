@@ -17,6 +17,10 @@ Basic data mining, machine learning algorithms and some useful reference and too
 - k-means [Top10 Algorithm of Machine Learning]
 
   A simple clustering algorithm
+  
+- kNN [Top10 Algorithm of Machine Learning]
+
+  k Nearest Neighbourhood, a simple classification algorithm
 
 - DES [Encryption Algorithm]
 
