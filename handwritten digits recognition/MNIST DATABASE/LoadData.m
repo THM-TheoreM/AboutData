@@ -1,6 +1,6 @@
 clear;clc;close all;
-train_x=TrainImageRead('C:\\Users\\chenming\\Desktop\\handwritten digits recognition\\TrainImage\\');
-test_x=TestImageRead('C:\\Users\\chenming\\Desktop\\handwritten digits recognition\\TestImage\\');
+train_x=TrainImageRead('C:\\Users\\chenming\\Desktop\\DataAnalysis\\handwritten digits recognition\\TrainImage\\');
+test_x=TestImageRead('C:\\Users\\chenming\\Desktop\\DataAnalysis\\handwritten digits recognition\\TestImage\\');
 %test_y is a 10000*10 matrix with test_y(i,j)=1 meaning the ith image labels j-1
 label_test=loadMNISTLabels('t10k-labels.idx1-ubyte');
 test_y=zeros(length(label_test),10);
