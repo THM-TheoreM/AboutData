@@ -10,11 +10,11 @@
 
 - optimization
 
-- machine learning
+- [machine learning](https://github.com/THM-TheoreM/AboutData/tree/DataAnalysis/machine%20learning)
 
 - image process
 
-- encryption
+- [encryption](https://github.com/THM-TheoreM/AboutData/tree/DataAnalysis/encryption)
 
 ## book
 

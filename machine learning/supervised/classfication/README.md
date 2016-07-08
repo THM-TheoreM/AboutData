@@ -1,11 +1,7 @@
-- EM [Top10 Algorithm of Machine Learning]
+# classfication
 
-  Expectation Maximization, a reference link:http://blog.csdn.net/zouxy09/article/details/8537620, an application is GMM
+- EM: Expectation Maximization, a reference link:http://blog.csdn.net/zouxy09/article/details/8537620, an application is GMM
   
-- kNN [Top10 Algorithm of Machine Learning]
+- kNN: k Nearest Neighbourhood, a simple classification algorithm
 
-  k Nearest Neighbourhood, a simple classification algorithm
-
-- CNN [Classification Algorithm]
-
-  Convolutional neural networks, and an application in handwritten digits recognition
+- CNN: Convolutional neural networks, and an application in handwritten digits recognition
