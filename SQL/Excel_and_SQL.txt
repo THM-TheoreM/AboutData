@@ -1,0 +1,7 @@
+http://jingyan.baidu.com/article/73c3ce28c839b7e50243d950.html
+
+1.从SQL（2008）中导入数据至Excel（2007）
+“数据”→“自其他来源”→“来自SQL Server”→填写登录信息→“选择数据库”→选择表格
+
+2.从Excel（2007）中导入数据至SQL（2008）
+右键数据库→“任务”→“导入数据”→“下一步”→在“数据源”中选择“Microsoft Excel”→选择“Excel文件路径”
