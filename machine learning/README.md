@@ -9,5 +9,3 @@
 - unsupervised
 
   - clustering
-
-- image process
