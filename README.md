@@ -4,13 +4,13 @@
 
 这是为数据分析做的讲座。数据分析流程如下：
 
-- [数据采集](https://github.com/THM-TheoreM/DataAnalysis/tree/AboutData#数据采集)
+- [数据采集](https://github.com/THM-TheoreM/AboutData/tree/master#数据采集)
 
-- [数据存储](https://github.com/THM-TheoreM/DataAnalysis/tree/AboutData#数据存储)
+- [数据存储](https://github.com/THM-TheoreM/AboutData/tree/master#数据存储)
 
-- [数据分析](https://github.com/THM-TheoreM/DataAnalysis/tree/AboutData#数据分析)
+- [数据分析](https://github.com/THM-TheoreM/AboutData/tree/master#数据分析)
 
-- [数据展示](https://github.com/THM-TheoreM/DataAnalysis/tree/AboutData#数据展示)
+- [数据展示](https://github.com/THM-TheoreM/AboutData/tree/master#数据展示)
 
 ## 数据采集
 
@@ -30,13 +30,13 @@
 
 大神提供的学习资料。
 
-- [SQL](https://github.com/THM-TheoreM/SQL)
+- [DataStorage](https://github.com/THM-TheoreM/AboutData/tree/DataStorage)
 
 ## 数据分析
 
 大神提供的学习资料。
 
-- [DataAnalysis](https://github.com/THM-TheoreM/DataAnalysis/tree/master)
+- [DataAnalysis](https://github.com/THM-TheoreM/AboutData/tree/DataAnalysis)
 
 ## 数据展示
 
