@@ -1,28 +1,18 @@
 # DataAnalysis
 
-## numerical algebra
+- numerical algebra
 
-## numerical solution
+- numerical solution
 
-## search
+- search
 
-## optimization
+- optimization
 
-## machine learning
+- machine learning
 
-- supervised
+- image process
 
-  - classification
-
-  - regression
-
-- unsupervised
-
-  - clustering
-
-## image process
-
-## encryption
+- encryption
 
 ## book
 
