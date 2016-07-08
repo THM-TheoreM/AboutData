@@ -1,6 +1,6 @@
 ﻿# machine learning
 
-- [supervised](https://github.com/THM-TheoreM/AboutData/tree/DataAnalysis/machine%20learning/supervised)
+- supervised
 
   - [classification](https://github.com/THM-TheoreM/AboutData/tree/DataAnalysis/machine%20learning/supervised/classfication)
 
