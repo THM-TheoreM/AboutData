@@ -24,7 +24,7 @@
 
 ### 爬虫
 
-- [creeper](https://github.com/THM-TheoreM/Python/tree/creeper)：基于python的requests库和re库的爬虫介绍。
+- [cralwer](https://github.com/THM-TheoreM/Python/tree/creeper)：基于python的requests库和re库的爬虫介绍。
 
 ## 数据存储
 
