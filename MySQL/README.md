@@ -1,23 +1,21 @@
 ﻿# MySQL
 
-**install**
+## 安装
 
-- http://www.mysql.com/
-- http://jingyan.baidu.com/article/597035521d5de28fc00740e6.html
-- http://bobshute.iteye.com/blog/520760
+- [官网](http://www.mysql.com)
 
-**learn**
+- [安装教程](http://jingyan.baidu.com/article/597035521d5de28fc00740e6.html)
 
-- http://www.runoob.com/mysql/mysql-tutorial.html
+- [其他说明](http://bobshute.iteye.com/blog/520760)
 
-**java**
+## 教程
 
-- http://blog.sina.com.cn/s/blog_4d8648910102vagq.html
+- [菜鸟教程](http://www.runoob.com/mysql/mysql-tutorial.html)
 
-**python**
+## 其他
 
-- http://www.runoob.com/python/python-mysql.html
+- [java](http://blog.sina.com.cn/s/blog_4d8648910102vagq.html)
 
-**excel**
+- [python](http://www.runoob.com/python/python-mysql.html)
 
-- http://blog.sina.com.cn/s/blog_731d4f750102uxpw.html
+- [excel](http://blog.sina.com.cn/s/blog_731d4f750102uxpw.html)
