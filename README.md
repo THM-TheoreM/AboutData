@@ -1,26 +1,26 @@
 # DataAnalysis
 
-## tool
+## 工具
 
 - [SAS](https://github.com/THM-TheoreM/AboutData/tree/DataAnalysis/tool/SAS)
 
-## algorithm
+## 算法
 
-- numerical algebra
+- 数值代数
 
-- numerical solution
+- 数值解
 
-- search
+- 优化
 
-- optimization
+- 搜索
 
-- [machine learning](https://github.com/THM-TheoreM/AboutData/tree/DataAnalysis/algorithm/machine%20learning)
+- [机器学习](https://github.com/THM-TheoreM/AboutData/tree/DataAnalysis/algorithm/machine%20learning)
 
-- [encryption](https://github.com/THM-TheoreM/AboutData/tree/DataAnalysis/algorithm/encryption)
+- [加密](https://github.com/THM-TheoreM/AboutData/tree/DataAnalysis/algorithm/encryption)
 
-- image process
+- 图像处理
 
-## book
+## 参考书目
 
 - [The Matrix Cookbook](https://github.com/THM-TheoreM/AboutData/tree/DataAnalysis/book)
 
