@@ -12,6 +12,29 @@
 
 - [菜鸟教程](http://www.runoob.com/mysql/mysql-tutorial.html)
 
+## 命令
+
+### 管理/链接
+
+```
+进入/启动：mysql -u root -p
+
+退出：mysql> exit
+```
+
+### 数据库
+
+```
+创建：mysqladmin -u root -p create RUNOOB
+
+删除：mysqladmin -u root -p drop RUNOOB
+
+选择：mysql -u root -p
+
+      mysql> use RUNOOB; 
+
+```
+
 ## 其他
 
 - [java](http://blog.sina.com.cn/s/blog_4d8648910102vagq.html)
