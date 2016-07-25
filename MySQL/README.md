@@ -12,8 +12,6 @@
 
 - [菜鸟教程](http://www.runoob.com/mysql/mysql-tutorial.html)
 
-## 命令
-
 ### 管理/链接
 
 ```
@@ -31,9 +29,12 @@
 
 选择：mysql -u root -p
 
-      mysql> use RUNOOB; 
-
+      mysql> use RUNOOB;
 ```
+
+### 数据类型
+
+MySQL主要有三种数据类型：数值，日期和时间，以及字符串
 
 ## 其他
 
