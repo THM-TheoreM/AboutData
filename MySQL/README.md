@@ -57,6 +57,7 @@ MySQL主要有三种数据类型：数值，日期和时间，以及字符串
 插入：insert into runoob_tb (title,author,date) values ("PHP","John Poul",NOW());
       insert into runoob_tb (title,author,date) values ("MySQL","Abdul S",NOW());
       insert into runoob_tb (title,author,date) values ("JAVA","Sanjay","2007-05-06");
+      insert into runoob_tb (title,author,date) values ("HTML","gaoxinge","2016-07-24"), ("C++","xinge","2016-07-24"), ("Python","ge","2016-07-23");
 ```
 
 ### 更新
