@@ -54,20 +54,21 @@ MySQL主要有三种数据类型：数值，日期和时间，以及字符串
 ### 插入
 
 ```
-插入：insert into runoob_tb
-      (title,author,date)
-      values
-      ("PHP","John Poul",NOW());
+插入：insert into runoob_tb (title,author,date) values ("PHP","John Poul",NOW());
+      insert into runoob_tb (title,author,date) values ("MySQL","Abdul S",NOW());
+      insert into runoob_tb (title,author,date) values ("JAVA","Sanjay","2007-05-06");
+```
 
-      insert into runoob_tb
-      (title,author,date)
-      values
-      ("MySQL","Abdul S",NOW());
+### 更新
 
-      insert into runoob_tb
-      (title,author,date)
-      values
-      ("JAVA","Sanjay","2007-05-06");
+```
+更新：update runoob_tb set title="HTML" where id=4;
+```
+
+### 删除
+
+```
+删除：delete from runoob_tb where id=4;
 ```
 
 ### 查询
@@ -75,7 +76,9 @@ MySQL主要有三种数据类型：数值，日期和时间，以及字符串
 ```
 查询：select id from runoob_tb;
       select * from runoob_tb;
-      select * from runoob_tb where id>1 and date!="2007-05-06"; 
+      select * from runoob_tb where id>1 and date!="2007-05-06";
+      select * from runoob_tb where author like "%jay";
+      select * from runoob_tb order by date;
 ```
 
 ## 其他
