@@ -59,12 +59,12 @@ MySQL主要有三种数据类型：数值，日期和时间，以及字符串
       values
       ("PHP","John Poul",NOW());
 
-      nsert into runoob_tb
+      insert into runoob_tb
       (title,author,date)
       values
       ("MySQL","Abdul S",NOW());
 
-      nsert into runoob_tb
+      insert into runoob_tb
       (title,author,date)
       values
       ("JAVA","Sanjay","2007-05-06");
