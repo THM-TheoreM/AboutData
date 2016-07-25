@@ -40,15 +40,19 @@ MySQL主要有三种数据类型：数值，日期和时间，以及字符串
 
 ```
 创建：create table runoob_tb(
-   	id int not null auto_increment,
-   	title varchar(100) not null,
-   	author varchar(40) not null,
-   	date date,
-   	primary key (id)
-	);
+      id int not null auto_increment,
+      title varchar(100) not null,
+      author varchar(40) not null,
+      date date,
+      primary key (id)
+      );
+
+       create table runoob_tb2(
+       title varchar(100) not null,
+       author varchar(40) not null,
+       );       
 
 删除：drop table runoob_tb;
-
 ```
 
 ### 插入
@@ -58,6 +62,7 @@ MySQL主要有三种数据类型：数值，日期和时间，以及字符串
       insert into runoob_tb (title,author,date) values ("MySQL","Abdul S",NOW());
       insert into runoob_tb (title,author,date) values ("JAVA","Sanjay","2007-05-06");
       insert into runoob_tb (title,author,date) values ("HTML","gaoxinge","2016-07-24"), ("C++","xinge","2016-07-24"), ("Python","ge","2016-07-23");
+      insert into runoob_tb2 select title,author from runoob_tb;
 ```
 
 ### 更新
@@ -80,6 +85,10 @@ MySQL主要有三种数据类型：数值，日期和时间，以及字符串
       select * from runoob_tb where id>1 and date!="2007-05-06";
       select * from runoob_tb where author like "%jay";
       select * from runoob_tb order by date;
+      select date,count(*) from runoob_tb group by date;
+      select a.id,a.author,b.count from runoob_tb a inner join tcount_tb b on a.author=b.author;
+      select a.id,a.author,b.count from runoob_tb a left join tcount_tb b on a.author=b.author;
+      select b.id,b.author,a.count from tcount_tb a right join runoob_tb b on a.author=b.author;
 ```
 
 ## 其他
