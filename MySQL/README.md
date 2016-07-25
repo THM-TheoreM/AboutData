@@ -17,7 +17,7 @@
 ```
 进入/启动：mysql -u root -p
 
-退出：mysql> exit
+退出：mysql> exit;
 ```
 
 ### 数据库
@@ -35,6 +35,21 @@
 ### 数据类型
 
 MySQL主要有三种数据类型：数值，日期和时间，以及字符串
+
+### 数据表
+
+```
+创建：create table runoob_tb(
+   	id int not null auto_increment,
+   	title varchar(100) not null,
+   	author varchar(40) not null,
+   	date date,
+   	primary key (id)
+	);
+
+删除：drop table runoob_tb;
+
+```
 
 ## 其他
 
