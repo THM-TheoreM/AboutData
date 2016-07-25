@@ -22,9 +22,9 @@
 
 ## ²Î¿¼ÊéÄ¿
 
-- [The Matrix Cookbook](https://github.com/THM-TheoreM/AboutData/tree/DataAnalysis/book)
+- [The Matrix Cookbook](https://github.com/THM-TheoreM/Data/blob/DataAnalysis/book/The%20Matrix%20Cookbook.pdf)
 
-- [Pattern Recognition and Machine Learning](https://github.com/THM-TheoreM/AboutData/tree/DataAnalysis/book)
+- [Pattern Recognition and Machine Learning](https://github.com/THM-TheoreM/Data/blob/DataAnalysis/book/Pattern%20Recognition%20and%20Machine%20Learning.pdf)
 
   - [answer](http://research.microsoft.com/en-us/um/people/cmbishop/PRML/pdf/prml-web-sol-2009-09-08.pdf)
 
