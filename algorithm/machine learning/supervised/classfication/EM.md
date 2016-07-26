@@ -2,7 +2,7 @@
 
 ## 介绍
 
-最大期望（EM），英文expection maximum。混合高斯模型（GMM）是它的一个应用
+最大期望（EM），英文expection maximum。混合高斯模型（GMM）和k-均值（k-means）是它的应用
 
 ## 学习资料
 
