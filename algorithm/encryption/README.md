@@ -1,4 +1,4 @@
-# encryption 
+# º”√‹
  
 - DES: Data EncryptionStandard, used as the most popular Symmetrical Encryption Algorithm.
 
