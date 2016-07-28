@@ -1,15 +1,11 @@
 # 聚类
 
-- k-means: A simple clustering algorithm
-
-- k-means(Elkan's optimization)/k-means++/k-medians/k-medoids
+- [k-均值](https://github.com/THM-TheoreM/Data/blob/DataAnalysis/algorithm/machine%20learning/unsupervised/clustering/Clustering.docx)
   
-- ISODATA: Iterative Self Organizing Data Analysis Techniques Algorithm, using merge and split to judge number of clusters automatically
-  
-- Hierarchical Clustering Algorithms: Merge points one by one till one component
+- [分级聚类](https://github.com/THM-TheoreM/Data/blob/DataAnalysis/algorithm/machine%20learning/unsupervised/clustering/Clustering.docx)
 
-- Fuzzy C-Means Clustering: Offer a vague probabiliy of the ith point belonging to jth cluster
+- [模糊C均值](https://github.com/THM-TheoreM/Data/blob/DataAnalysis/algorithm/machine%20learning/unsupervised/clustering/Clustering.docx)
 
-- GMM: Gaussian Mixture Model, view all data from a mixture of Gaussian
+- [高斯混合模型](https://github.com/THM-TheoreM/Data/blob/DataAnalysis/algorithm/machine%20learning/unsupervised/clustering/Clustering.docx)
 
-- Spectral Clustering: From a graph view, making discrete problem continuous, reformulating as a Laplacian matrix's eigenvalue problem 
+- [谱聚类](https://github.com/THM-TheoreM/Data/blob/DataAnalysis/algorithm/machine%20learning/unsupervised/clustering/Clustering.docx) 
