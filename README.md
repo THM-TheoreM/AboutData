@@ -28,7 +28,9 @@
 
   - [answer](http://research.microsoft.com/en-us/um/people/cmbishop/PRML/pdf/prml-web-sol-2009-09-08.pdf)
 
-- [Programming Collective Intelligence](https://github.com/cataska/programming-collective-intelligence-code)
+- [Programming Collective Intelligence](http://shop.oreilly.com/product/9780596529321.do)
+  
+  - [answer](https://github.com/cataska/programming-collective-intelligence-code)
 
 - [Machine Learning in Action](https://www.manning.com/books/machine-learning-in-action)
 
