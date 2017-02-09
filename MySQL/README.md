@@ -36,6 +36,15 @@
 
 MySQL主要有三种数据类型：数值，日期和时间，以及字符串。对于`null`，要用`is null`和`is not null`来判断
 
+### 函数
+
+- 内建函数
+  - count
+  - sum
+  - avg
+  - max
+  - min 
+
 ### 数据表
 
 ```
